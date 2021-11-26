@@ -27,5 +27,5 @@ Once the user has confirmed their weight, they are able to select between
 various firefighting positions, and finally, chose any extra equipment
 that may be needed. Once weight, role, and extras are selected, the 
 program calculates the total weight of the firefighter, renders a pie 
-chart illustrating the weight breakdown, and offers a rudimentary safety
-suggestion based upon the amount of weight being carried.
+chart illustrating the weight breakdown, and offers a safety
+suggestion based upon the amount of weight being carried and NIOSH guidelines.
