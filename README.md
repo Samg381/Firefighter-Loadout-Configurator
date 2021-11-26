@@ -1,7 +1,7 @@
 # Firefighter-Loadout-Configurator
 Allows user to configure various common firefighter gear loadouts to determine if weight burden is safe.
 
-https://user-images.githubusercontent.com/3127698/143387033-5a5745c1-602d-4c7d-bde4-74606b3088f6.mp4
+![loadout](https://user-images.githubusercontent.com/3127698/143526782-52c6da9e-9e7b-42aa-8d37-d050abdd8217.gif)
 
 **I/O SUMMARY:**
 The program collects the user's weight with unit preference,
